@@ -1,0 +1,13 @@
+vivado_project/*
+src/ip/*/*
+!src/ip/*/*.xci
+*.bit
+!builds/*
+vivado.log
+vivado.jou
+*.cache
+*.hw
+*.ip_user_files
+*.runs
+*.sim
+*.xpr
